@@ -1,0 +1,16 @@
+.search-box {
+	margin-bottom: 10px;
+}
+body {
+	position: relative;
+	background: url(../img/white_wall.png) repeat;
+}
+.login {
+	relative:absolute;
+	top: 200px;
+	left:350px;
+	border: 1px solid #cdcdcd;
+	padding: 20px 10px 20px 0px;
+	box-shadow: 2px 2px;
+	border-radius: 10px;
+}
